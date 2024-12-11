@@ -1,0 +1,31 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js projeleri için
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python projeleri için
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# Java projeleri için
+*.class
+*.jar
+*.war
+target/
+
+# Logs ve geçici dosyalar
+*.log
+*.tmp
